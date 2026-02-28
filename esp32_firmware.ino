@@ -25,8 +25,8 @@
 #include "DHT.h"
 
 // ───────── WiFi ─────────
-const char* WIFI_SSID     = "YOUR_WIFI_SSID";
-const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
+const char* WIFI_SSID     = "OPPO A77";
+const char* WIFI_PASSWORD = "shiva210";
 
 // ───────── Backend ─────────
 const char* BACKEND_URL = "https://your-backend-url.up.railway.app";
