@@ -29,7 +29,7 @@ const char* WIFI_SSID     = "OPPO A77";
 const char* WIFI_PASSWORD = "shiva210";
 
 // ───────── Backend ─────────
-const char* BACKEND_URL = "https://your-backend-url.up.railway.app";
+const char* BACKEND_URL = "https://web-production-44536.up.railway.app/";
 const char* DEVICE_ID   = "esp32-001";
 const char* DEVICE_KEY  = "your-device-key";
 
